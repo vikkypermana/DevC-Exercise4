@@ -1,0 +1,36 @@
+.tengah{
+    width: 400px;
+    margin: 0 auto;
+}
+.judul{
+    display: table-cell;
+    font-weight: bolder;
+    font-size: 72px;
+    color: #3e3e3e;
+    
+}
+.subjudul{        
+    display: table-cell;
+    padding: 20px 10px;
+    font-size: 24px;
+    color: #3e3e3e;  
+    vertical-align: top;
+    
+}
+.judulheader{
+    display: table;
+    width: 300px;     
+}
+.container{
+    display: block;
+    width: 1100px;    
+    margin: 0 auto;
+}
+.footer{
+    text-align: center;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;    
+    width: 100%;
+    color: #3e3e3e;
+}
